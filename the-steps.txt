@@ -1,0 +1,4 @@
+get a test md file from you astro
+parse front matter and store in hashmap
+parse out markdown body content to html
+add the correct values from front matter to the body
